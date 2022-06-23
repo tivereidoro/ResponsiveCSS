@@ -88,6 +88,11 @@ span {
     margin-top: 4px;
 }
 
+.textSide p {
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+}
+
 .button {
   border: none;
   color: white;
